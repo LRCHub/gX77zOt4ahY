@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Sneaker - スニーカー",
+  "base_artist": "HoneyComeBear",
+  "createdAt": "2026-02-24T15:06:25.051635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sneaker Fairytale",
+      "artist": "Baasch",
+      "has_synced": false,
+      "path": "select/01_Sneaker_Fairytale_Baasch.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Somebody That I Used to Know (Sneaker Fox Remix)",
+      "artist": "Gotye feat. Kimbra",
+      "has_synced": false,
+      "path": "select/02_Somebody_That_I_Used_to_Know_(Sneaker_Fox_Remix)_Gotye_feat._Kimbra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Somebody That I Used To Know (Feat. Kimbra) (Sneaker Fox Remix)",
+      "artist": "Gotye",
+      "has_synced": false,
+      "path": "select/03_Somebody_That_I_Used_To_Know_(Feat._Kimbra)_(Sneaker_Fox_Remix)_Gotye.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Politics Of The Sneaker Pimps",
+      "artist": "Public Enemy",
+      "has_synced": true,
+      "path": "select/04_Politics_Of_The_Sneaker_Pimps_Public_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Street Dancer (Sneaker Fox Remix)",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/05_Street_Dancer_(Sneaker_Fox_Remix)_Avicii.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Sneaker Dance",
+      "artist": "Kero Kero Bonito",
+      "has_synced": true,
+      "path": "select/06_The_Sneaker_Dance_Kero_Kero_Bonito.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Backward Bullet (Feat. Sneaker Pimps)",
+      "artist": "Maxim",
+      "has_synced": true,
+      "path": "select/07_Backward_Bullet_(Feat._Sneaker_Pimps)_Maxim.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "shoes (the sneaker song)",
+      "artist": "Oso Oso",
+      "has_synced": true,
+      "path": "select/08_shoes_(the_sneaker_song)_Oso_Oso.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sneaker Waktu itu",
+      "artist": "JKT48",
+      "has_synced": true,
+      "path": "select/09_Sneaker_Waktu_itu_JKT48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sneaker - スニーカー",
+      "artist": "HoneyComeBear",
+      "has_synced": false,
+      "path": "select/pl_01_Sneaker_-_スニーカー_HoneyComeBear.txt"
+    }
+  ]
+}
